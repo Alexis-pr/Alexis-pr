@@ -1,10 +1,5 @@
 <div align="center">
 
-```
- ░█░█░█▀█░█▀█░█▀█░▀█▀░█░█░█▀█░█▀█
- ░░█░░█░█░█░█░█▀█░░█░░█▀█░█▀█░█░█
- ░░▀░░▀▀▀░▀░▀░▀░▀░░▀░░▀░▀░▀░▀░▀░▀
-```
 
 # Yonathan Pérez Ruiz
 
@@ -28,7 +23,6 @@ Construyo plataformas empresariales desde cero — arquitectura limpia, sistemas
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%235b21b6?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-%234c1d95?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23e879f9?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%23c026d3?style=flat-square&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%239333ea?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23dc2626?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23b91c1c?style=flat-square&logo=redis&logoColor=white)
@@ -49,7 +43,7 @@ Construyo plataformas empresariales desde cero — arquitectura limpia, sistemas
 
 ---
 
-### `// github stats`
+### `github stats`
 
 <div align="center">
 
