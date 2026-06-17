@@ -9,14 +9,14 @@
 
 ---
 
-### `// sobre mí`
+### `sobre mí`
 
 Desarrollador full-stack enfocado en **.NET / ASP.NET Core** y frontends modernos con **React** y **Flutter**.  
 Construyo plataformas empresariales desde cero — arquitectura limpia, sistemas multi-tenant, APIs REST y herramientas que aceleran el desarrollo.
 
 ---
 
-### `// stack`
+### `stack`
 
 ![C#](https://img.shields.io/badge/C%23-%23a855f7?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%237c3aed?style=flat-square&logo=dotnet&logoColor=white)
@@ -32,7 +32,7 @@ Construyo plataformas empresariales desde cero — arquitectura limpia, sistemas
 
 ---
 
-### `// proyectos destacados`
+### `proyectos destacados`
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -59,6 +59,6 @@ Construyo plataformas empresariales desde cero — arquitectura limpia, sistemas
 
 <div align="center">
 
-`// construyendo en las sombras, una línea a la vez`
+`construyendo en las sombras, una línea a la vez`
 
 </div>
